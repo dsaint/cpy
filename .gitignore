@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# OS/X and CircuitPython
+.fseventsd/
+.idea/
+.metadata_never_index
