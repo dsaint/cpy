@@ -3,7 +3,7 @@
 Standalone temperature/humidity sensor that logs periodically
 
 * `INTERVAL` is the interval in seconds between sensor readings
-* `DEVELOPER_MODE` boolean to indicate
+* `DEVELOPER_MODE` boolean to indicate if this being updated over the USB connection
 * `sensor.log` is the file that readings are logged to
 
 ## Development
